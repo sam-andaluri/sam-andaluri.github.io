@@ -1,2 +1,6 @@
 theme: jekyll-theme-minimal
 title: Welcome to Sam Andaluri's Home Page
+plugins:
+  - jekyll-sitemap
+  - jekyll-menu
+
