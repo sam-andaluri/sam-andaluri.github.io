@@ -1,6 +1,6 @@
 # Solution Portfolio
 
-The following are a list of solutions I developed for customers and for citizen science projects.
+The following are a list of solutions I developed for customers and for citizen science projects. The projects are not in any specific order. But the projects I developed for customers and enablement are at the top.
 
 ## Amazon MQ Disaster Recovery Architecture
 
@@ -13,6 +13,14 @@ Amazon CloudWatch provides a rudimentary service dashboard and widgets for build
 ## Cross Region/Cross Account Dashboard Architecture
 
 Many enterprise customers in AWS use multiple accounts to seggegate their workloads (by project/environment). Quite often, this could results in 10s or 100s of accounts. This [solution](https://github.com/sam-andaluri/dashboard-poc) provides an architecture that helps customers to leverage [Amazon CloudWatch Cross Region/Cross Account dashboard functionality](https://aws.amazon.com/about-aws/whats-new/2019/11/amazon-cloudwatch-launches-cross-account-cross-region-dashboards/) along with auto-generated CloudWatch dashboards. The account level quotas and personal health events are also integrated into this solution. 
+
+## Amazon MQ Enterprise Integration Patterns
+
+Inspire by Gregor Hohpe's seminal work on [Enterprise Integration Patterns](https://www.enterpriseintegrationpatterns.com/gregor.html), developed this [project](https://github.com/aws-samples/amazon-mq-enterprise-integration-patterns) for demonstrating how to use Apache Camel with AWS mesaging services. I presented this project in a reInvent 2019 Builder Session. 
+
+## Amazon MQ Workshop
+
+While I worked as a Specialist SA for Messaging services in AWS, made major contributions to developing an enablement [workshop](https://amazon-mq-intro.workshop.aws). This was presented in reInvent 2019 as a workshop. The code for the workshop including the samples is [here](https://github.com/aws-samples/amazon-mq-workshop). 
 
 ## Classifying Cloud types using cloud vision APIs
 
