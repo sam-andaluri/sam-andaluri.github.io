@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-leap-day
 title: Sambasiva "Sam" Andaluri
 permalink: /:title/
 # Jekyll 3 now only supports Kramdown for Markdown
