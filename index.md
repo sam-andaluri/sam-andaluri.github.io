@@ -1,6 +1,6 @@
 # Solution Portfolio
 
-The following are a list of solutions I developed for customers and for citizen science projects. Customer projects are listed first and then the citizen science projects. Most of these solutions architected using AWS, GCP or Azure. Feel free to fork or send a PR for bugs/enhancements.
+The following are a list of solutions I developed for customers and citizen science projects. Customer projects are listed first and then the citizen science projects. Most of these solutions architected using AWS. Feel free to fork or send a PR for bugs/enhancements.
 
 ## Customer Projects
 
