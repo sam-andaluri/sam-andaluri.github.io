@@ -1,6 +1,4 @@
-# Solution Portfolio
-
-The following are a list of solutions I developed for customers and citizen science projects. Customer projects are listed first and then the citizen science projects. Most of these solutions are architected using AWS. Feel free to fork or send a PR for bugs/enhancements.
+The following are a list of blogs, books and projects I developed in the past few years. 
 
 # Blogs
 
