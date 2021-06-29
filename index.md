@@ -2,6 +2,14 @@
 
 The following are a list of solutions I developed for customers and citizen science projects. Customer projects are listed first and then the citizen science projects. Most of these solutions are architected using AWS. Feel free to fork or send a PR for bugs/enhancements.
 
+# Blogs
+
+-  [New Google Cloud Tau VM Benchmarks](https://blog.doit-intl.com/new-google-cloud-tau-vm-benchmarks-8900103cbe6)
+
+# Books
+
+- [Architecting Multi Cloud SaaS Solutions](https://www.manning.com/bundles/cross-cloud-access-to-SaaS-application)
+
 # Customer Projects
 
 ## Amazon MQ Disaster Recovery Architecture
