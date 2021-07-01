@@ -8,6 +8,10 @@ The following are a list of blogs, books and projects I developed in the past fe
 
 - [Architecting Multi Cloud SaaS Solutions](https://www.manning.com/bundles/cross-cloud-access-to-SaaS-application)
 
+# Codelabs
+
+- [GKE Marketplace Integration](https://mktplace.cloud/codelabs/gke-mp-codelab/index.html)
+
 # Customer Projects
 
 ## RedisLabs - GKE Marketplace Integration
