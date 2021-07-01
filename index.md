@@ -10,6 +10,10 @@ The following are a list of blogs, books and projects I developed in the past fe
 
 # Customer Projects
 
+## RedisLabs - GKE Marketplace Integration
+
+Redis Enterprise Edition is available on GKE Marketplace. I developed the GKE integration for them. You can find the code [here](https://github.com/RedisLabs/gkemarketplace)
+
 ## Amazon MQ Disaster Recovery Architecture
 
 Customers using Amazon MQ frequently ask for a cross region DR. This [solution](https://github.com/sam-andaluri/BrokerSync) provides a way to copy messages from primary region to DR region and keep the messages in-sync between regions.
