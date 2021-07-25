@@ -3,6 +3,11 @@ The following are a list of blogs, books and projects I developed in the past fe
 # Blogs
 
 -  [New Google Cloud Tau VM Benchmarks](https://blog.doit-intl.com/new-google-cloud-tau-vm-benchmarks-8900103cbe6)
+-  [Automatic Dependent Surveillance-Broadcast Scanner using Raspberry Pi and DVB-T stick](https://projects.bldr.blog/iot/adsb)
+-  [WiFi provisioning for IoT devices - Exploratory notes](https://projects.bldr.blog/iot/wifi-setup-for-iot-devices)
+-  [ActiveMQ Performance Testing - maven plugin - Exploratory notes](https://projects.bldr.blog/messaging/activemq-mq-performance-testing)
+-  [Qpid JMS 2.0 client for ActiveMQ - Exploratory notes](https://projects.bldr.blog/messaging/qpid-jms-client-for-activemq)
+-  [ActiveMQ load testing using ECS/Fargate](https://projects.bldr.blog/messaging/fargate-perf-test-setup)
 
 # Books
 
