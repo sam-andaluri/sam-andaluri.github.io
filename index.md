@@ -9,10 +9,20 @@ The following are a list of blogs, books and projects I developed in the past fe
 -  [Qpid JMS 2.0 client for ActiveMQ - Exploratory notes](https://projects.bldr.blog/messaging/qpid-jms-client-for-activemq)
 -  [ActiveMQ load testing using ECS/Fargate](https://projects.bldr.blog/messaging/fargate-perf-test-setup)
 
-# Books
+# Published Books, Projects
+
+## Manning
 
 - [Architecting Multi Cloud SaaS Solutions](https://www.manning.com/bundles/cross-cloud-access-to-SaaS-application)
+- [Create a Multi-Cloud Kubernetes Cluster](https://www.manning.com/liveprojectseries/multi-cloud-kubernetes)
+- [Multi-Cloud Metrics, Logging, and Monitoring](https://www.manning.com/liveprojectseries/multi-cloud-metrics-logging-monitoring-ser)
 
+## IBM Redbooks
+
+- [Implementation Guide for IBM Spectrum Virtualize for Public Cloud 8.5: For AWS and Azure Public Clouds](https://www.redbooks.ibm.com/abstracts/redp5671.html)
+- [Implementing, Tuning, and Optimizing Workloads with Red Hat OpenShift on IBM Power](https://www.redbooks.ibm.com/abstracts/sg248537.html)
+- [Security Implementation with Red Hat OpenShift on IBM Power Systems](https://www.redbooks.ibm.com/abstracts/redp5690.html)
+  
 # Codelabs
 
 - [GKE Marketplace Integration](https://mktplace.cloud/codelabs/gke-mp-codelab/index.html)
