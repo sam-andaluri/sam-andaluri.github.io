@@ -1,13 +1,10 @@
-The following are a list of blogs, books and projects I developed in the past few years. 
+The following are a list of speaking engagements, books and projects, blogs I developed/contributed in the past few years. 
 
-# Blogs
+# Speaking Engagements
 
--  [New Google Cloud Tau VM Benchmarks](https://blog.doit-intl.com/new-google-cloud-tau-vm-benchmarks-8900103cbe6)
--  [Automatic Dependent Surveillance-Broadcast Scanner using Raspberry Pi and DVB-T stick](https://projects.bldr.blog/iot/adsb)
--  [WiFi provisioning for IoT devices - Exploratory notes](https://projects.bldr.blog/iot/wifi-setup-for-iot-devices)
--  [ActiveMQ Performance Testing - maven plugin - Exploratory notes](https://projects.bldr.blog/messaging/activemq-mq-performance-testing)
--  [Qpid JMS 2.0 client for ActiveMQ - Exploratory notes](https://projects.bldr.blog/messaging/qpid-jms-client-for-activemq)
--  [ActiveMQ load testing using ECS/Fargate](https://projects.bldr.blog/messaging/fargate-perf-test-setup)
+[AWS reInvent 2019 - Builder Session - ARC322 - Enterprise Messaging Patterns](https://github.com/sam-andaluri/arc322)
+[IBM TechXchange 2023 - 1120 - Hands on SRE on IBM Cloud Kubernetes](https://www.ibm.com/community/ibm-techxchange-catalog/?search.techtracks=1689786983785004hozl&search=1120#/)
+[IBM TechXchange 2023 - 1173 - Hands on LSF on IBM Cloud](https://www.ibm.com/community/ibm-techxchange-catalog/?search.techtracks=1689786983785004hozl&search=1173#/)
 
 # Published Books, Projects
 
@@ -22,10 +19,15 @@ The following are a list of blogs, books and projects I developed in the past fe
 - [Implementation Guide for IBM Spectrum Virtualize for Public Cloud 8.5: For AWS and Azure Public Clouds](https://www.redbooks.ibm.com/abstracts/redp5671.html)
 - [Implementing, Tuning, and Optimizing Workloads with Red Hat OpenShift on IBM Power](https://www.redbooks.ibm.com/abstracts/sg248537.html)
 - [Security Implementation with Red Hat OpenShift on IBM Power Systems](https://www.redbooks.ibm.com/abstracts/redp5690.html)
-  
-# Codelabs
 
-- [GKE Marketplace Integration](https://mktplace.cloud/codelabs/gke-mp-codelab/index.html)
+# Blogs
+
+-  [New Google Cloud Tau VM Benchmarks](https://blog.doit-intl.com/new-google-cloud-tau-vm-benchmarks-8900103cbe6)
+-  [Automatic Dependent Surveillance-Broadcast Scanner using Raspberry Pi and DVB-T stick](https://projects.bldr.blog/iot/adsb)
+-  [WiFi provisioning for IoT devices - Exploratory notes](https://projects.bldr.blog/iot/wifi-setup-for-iot-devices)
+-  [ActiveMQ Performance Testing - maven plugin - Exploratory notes](https://projects.bldr.blog/messaging/activemq-mq-performance-testing)
+-  [Qpid JMS 2.0 client for ActiveMQ - Exploratory notes](https://projects.bldr.blog/messaging/qpid-jms-client-for-activemq)
+-  [ActiveMQ load testing using ECS/Fargate](https://projects.bldr.blog/messaging/fargate-perf-test-setup)
 
 # Customer Projects
 
