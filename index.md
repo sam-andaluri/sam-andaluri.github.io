@@ -3,8 +3,8 @@ The following are a list of speaking engagements, books and projects, blogs I de
 # Speaking Engagements
 
 - [AWS reInvent 2019 - Builder Session - ARC322 - Enterprise Messaging Patterns](https://github.com/sam-andaluri/arc322)
-- [IBM FastStart 2022 - Motivational talk on why join IBM]
-- [IBM FastStart 2023 - LSF on IBM Cloud for HPC - live demo] 
+- IBM FastStart 2022 - Motivational talk on why join IBM
+- IBM FastStart 2023 - LSF on IBM Cloud for HPC - live demo
 - [IBM TechXchange 2023 - 1120 - Hands on SRE on IBM Cloud Kubernetes](https://www.ibm.com/community/ibm-techxchange-catalog/?search.techtracks=1689786983785004hozl&search=1120#/)
 - [IBM TechXchange 2023 - 1173 - Hands on LSF on IBM Cloud](https://www.ibm.com/community/ibm-techxchange-catalog/?search.techtracks=1689786983785004hozl&search=1173#/)
 
