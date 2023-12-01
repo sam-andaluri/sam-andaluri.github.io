@@ -22,6 +22,7 @@ The following are a list of speaking engagements, books and projects, blogs I de
 - [Implementation Guide for IBM Spectrum Virtualize for Public Cloud 8.5: For AWS and Azure Public Clouds](https://www.redbooks.ibm.com/abstracts/redp5671.html)
 - [Implementing, Tuning, and Optimizing Workloads with Red Hat OpenShift on IBM Power](https://www.redbooks.ibm.com/abstracts/sg248537.html)
 - [Security Implementation with Red Hat OpenShift on IBM Power Systems](https://www.redbooks.ibm.com/abstracts/redp5690.html)
+- [Using Ansible for Automation with IBM Power Systems](https://www.redbooks.ibm.com/abstracts/sg248551.html)
 
 # Blogs
 
