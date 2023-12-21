@@ -13,7 +13,7 @@ The following are a list of speaking engagements, books and projects, blogs I de
 
 ## Manning
 
-- [Architecting Multi Cloud SaaS Solutions](https://www.manning.com/bundles/cross-cloud-access-to-SaaS-application)
+- [Architecting Multi Cloud SaaS Solutions](https://www.manning.com/liveprojectseries/cross-cloud-access-to-SaaS-application)
 - [Create a Multi-Cloud Kubernetes Cluster](https://www.manning.com/liveprojectseries/multi-cloud-kubernetes)
 - [Multi-Cloud Metrics, Logging, and Monitoring](https://www.manning.com/liveprojectseries/multi-cloud-metrics-logging-monitoring-ser)
 
