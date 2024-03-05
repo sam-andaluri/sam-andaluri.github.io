@@ -9,7 +9,7 @@ The following are a list of speaking engagements, books and projects, blogs I de
 - [IBM TechXchange 2023 - 1173 - Hands on LSF on IBM Cloud](https://www.ibm.com/community/ibm-techxchange-catalog/?search.techtracks=1689786983785004hozl&search=1173#/)
 - IBM Engineering Excellence Conference 2023 - Panel on importance of IBM Cloud SRE Certification and IBM Cloud Center for Cloud Training
  
-# Published Books, Projects
+# Published Books and Projects
 
 ## Manning
 
@@ -24,17 +24,7 @@ The following are a list of speaking engagements, books and projects, blogs I de
 - [Security Implementation with Red Hat OpenShift on IBM Power Systems](https://www.redbooks.ibm.com/abstracts/redp5690.html)
 - [Using Ansible for Automation with IBM Power Systems](https://www.redbooks.ibm.com/abstracts/sg248551.html)
 
-# Blogs
-
-- [SuperComputing 2023 Conference Notes](https://medium.com/p/5ba776dbac0c)
-- [New Google Cloud Tau VM Benchmarks](https://blog.doit-intl.com/new-google-cloud-tau-vm-benchmarks-8900103cbe6)
-- [Automatic Dependent Surveillance-Broadcast Scanner using Raspberry Pi and DVB-T stick](https://projects.bldr.blog/iot/adsb)
-- [WiFi provisioning for IoT devices - Exploratory notes](https://projects.bldr.blog/iot/wifi-setup-for-iot-devices)
-- [ActiveMQ Performance Testing - maven plugin - Exploratory notes](https://projects.bldr.blog/messaging/activemq-mq-performance-testing)
-- [Qpid JMS 2.0 client for ActiveMQ - Exploratory notes](https://projects.bldr.blog/messaging/qpid-jms-client-for-activemq)
-- [ActiveMQ load testing using ECS/Fargate](https://projects.bldr.blog/messaging/fargate-perf-test-setup)
-
-# Projects
+# Course Projects
 
 ## Generative AI
 
@@ -46,6 +36,8 @@ The following are a list of speaking engagements, books and projects, blogs I de
 
 1. OpenCV course project for [aligning documents](https://github.com/sam-andaluri/computer-vision-projects/blob/master/DocumentAlignment.ipynb) using OpenCV Python SDK.
 2. OpenCV course project for [coin detection](https://github.com/sam-andaluri/computer-vision-projects/blob/master/Coin-Detection-Assignment.ipynb) using OpenCV Python SDK. 
+
+# Customer Projects
 
 ## RedisLabs - GKE Marketplace Integration
 
@@ -76,3 +68,14 @@ While I worked as a Specialist SA for Messaging services in AWS, made major cont
 ## Classifying Cloud types using cloud vision APIs
 
 NASA runs a citizen science project named [Globe](https://observer.globe.gov). This project consists of collecting data on Cloud and Land cover classification and mosquito habitats. My children participate in the cloud cover program. The solution for this born out of question from my 13 year old daughter: If a computer vision model can identify a cat or dog, can it identify a cloud type by its shape?. To answer that question, together we set out on a journey to see how well the different cloud provider vision algorithms can identify the cloud cover. This led down a path to learn machine learning and computer vision. The following are complete solutions including a human-in-the-loop workflow for each of the three major cloud providers.
+
+# Blogs
+
+- [SuperComputing 2023 Conference Notes](https://medium.com/p/5ba776dbac0c)
+- [New Google Cloud Tau VM Benchmarks](https://blog.doit-intl.com/new-google-cloud-tau-vm-benchmarks-8900103cbe6)
+- [Automatic Dependent Surveillance-Broadcast Scanner using Raspberry Pi and DVB-T stick](https://projects.bldr.blog/iot/adsb)
+- [WiFi provisioning for IoT devices - Exploratory notes](https://projects.bldr.blog/iot/wifi-setup-for-iot-devices)
+- [ActiveMQ Performance Testing - maven plugin - Exploratory notes](https://projects.bldr.blog/messaging/activemq-mq-performance-testing)
+- [Qpid JMS 2.0 client for ActiveMQ - Exploratory notes](https://projects.bldr.blog/messaging/qpid-jms-client-for-activemq)
+- [ActiveMQ load testing using ECS/Fargate](https://projects.bldr.blog/messaging/fargate-perf-test-setup)
+
