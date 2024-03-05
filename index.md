@@ -1,6 +1,6 @@
 The following are a list of speaking engagements, books and projects, blogs I developed/contributed in the past few years. 
 
-# Speaking Engagements
+# Public Speaking
 
 - [AWS reInvent 2019 - Builder Session - ARC322 - Enterprise Messaging Patterns](https://github.com/sam-andaluri/arc322)
 - IBM FastStart 2022 - Motivational talk on why join IBM
@@ -34,7 +34,18 @@ The following are a list of speaking engagements, books and projects, blogs I de
 - [Qpid JMS 2.0 client for ActiveMQ - Exploratory notes](https://projects.bldr.blog/messaging/qpid-jms-client-for-activemq)
 - [ActiveMQ load testing using ECS/Fargate](https://projects.bldr.blog/messaging/fargate-perf-test-setup)
 
-# Customer Projects
+# Projects
+
+## Generative AI
+
+1. [Apply light weight fine tuning for LLM with yelp reviews data using PEFT/LoRA](https://github.com/sam-andaluri/udacity-genai/tree/main/project-apply-lightweight-fine-tuning)
+2. [Custom Chatbot](https://github.com/sam-andaluri/udacity-genai/tree/main/project-custom-chatbot)
+3. [Computer Vision and Generative AI](https://github.com/sam-andaluri/udacity-genai/tree/main/Computer-Vision-and-Generative-AI-Project)
+
+## OpenCV
+
+1. OpenCV course project for [aligning documents](https://github.com/sam-andaluri/computer-vision-projects/blob/master/DocumentAlignment.ipynb) using OpenCV Python SDK.
+2. OpenCV course project for [coin detection](https://github.com/sam-andaluri/computer-vision-projects/blob/master/Coin-Detection-Assignment.ipynb) using OpenCV Python SDK. 
 
 ## RedisLabs - GKE Marketplace Integration
 
